@@ -1,44 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: arxiv:1706.03762
-  title: "\u4EBA\u673A\u4F20\u64AD\u7684\u5185\u6DB5\u3001\u5916\u5EF6\u53CA\u7814\
-    \u7A76\u8BAE\u7A0B"
-  authors:
-  - "\u725F\u6021"
-  publisher: "\u9752\u5E74\u8BB0\u8005"
-  date: '2023-01-25'
-  link: http://www.qnjz.com/index.php?m=content&c=index&a=show&catid=7&id=37776
-  type: paper
-  image: images/publications.jpg
-  plugin: sources.py
-  file: sources_nid.yaml
-- id: arxiv:1706.03763
-  title: "\u8001\u5E74\u6B8B\u969C\u7FA4\u4F53\u65B0\u5A92\u4F53\u590D\u5408\u8D4B\
-    \u6743\u7684\u6761\u4EF6\u4E0E\u8DEF\u5F84\u8003\u5BDF"
-  authors:
-  - "\u5F20\u6797"
-  - "\u725F\u6021"
-  publisher: "\u65B0\u95FB\u5927\u5B66"
-  date: '2023-05-15'
-  link: https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=XWDX202305008&uniplatform=OVERSEA&v=8rOqUyEtECbwQVV9j2RZtmihfl7miDCSb5z5_MrzxLzyLBL_8xz446XrXIyigLuT
-  type: paper
-  image: images/publications.jpg
-  plugin: sources.py
-  file: sources_nid.yaml
-- id: arxiv:1706.03764
-  title: "\u6570\u5B57\u65F6\u4EE3\u8EBA\u5E73\u6587\u5316\u7684\u5EFA\u6784\uFF1A\
-    \u57FA\u4E8E\u9752\u5E74\u4E9A\u6587\u5316\u89C6\u89D2"
-  authors:
-  - "\u8DEF\u6587\u5EF7"
-  - "\u5F20\u6797"
-  - "\u725F\u6021"
-  publisher: "\u65B0\u95FB\u8BB0\u8005"
-  date: '2023-06-20'
-  link: https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=XWJZ202306009&uniplatform=OVERSEA&v=ssm6Go5gBLK4NrhFUIgaiTHecfKMySlpJ2BKRljMMc2hJKpbXZrrqu_PBJbO2nXC
-  type: paper
-  image: images/publications.jpg
-  plugin: sources.py
-  file: sources_nid.yaml
 - id: doi:10.1177/14614448231212822
   title: Good night versus goodbye? Comparing the mourning remarks of virtual and
     human uploaders through a data-mining approach
@@ -122,3 +83,42 @@
   image: images/publications.jpg
   plugin: sources.py
   file: sources.yaml
+- id: arxiv:1706.03762
+  title: "\u4EBA\u673A\u4F20\u64AD\u7684\u5185\u6DB5\u3001\u5916\u5EF6\u53CA\u7814\
+    \u7A76\u8BAE\u7A0B"
+  authors:
+  - "\u725F\u6021"
+  publisher: "\u9752\u5E74\u8BB0\u8005"
+  date: '2023-01-25'
+  link: http://www.qnjz.com/index.php?m=content&c=index&a=show&catid=7&id=37776
+  type: paper
+  image: images/publications.jpg
+  plugin: sources.py
+  file: sources_nid.yaml
+- id: arxiv:1706.03763
+  title: "\u8001\u5E74\u6B8B\u969C\u7FA4\u4F53\u65B0\u5A92\u4F53\u590D\u5408\u8D4B\
+    \u6743\u7684\u6761\u4EF6\u4E0E\u8DEF\u5F84\u8003\u5BDF"
+  authors:
+  - "\u5F20\u6797"
+  - "\u725F\u6021"
+  publisher: "\u65B0\u95FB\u5927\u5B66"
+  date: '2023-05-15'
+  link: https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=XWDX202305008&uniplatform=OVERSEA&v=8rOqUyEtECbwQVV9j2RZtmihfl7miDCSb5z5_MrzxLzyLBL_8xz446XrXIyigLuT
+  type: paper
+  image: images/publications.jpg
+  plugin: sources.py
+  file: sources_nid.yaml
+- id: arxiv:1706.03764
+  title: "\u6570\u5B57\u65F6\u4EE3\u8EBA\u5E73\u6587\u5316\u7684\u5EFA\u6784\uFF1A\
+    \u57FA\u4E8E\u9752\u5E74\u4E9A\u6587\u5316\u89C6\u89D2"
+  authors:
+  - "\u8DEF\u6587\u5EF7"
+  - "\u5F20\u6797"
+  - "\u725F\u6021"
+  publisher: "\u65B0\u95FB\u8BB0\u8005"
+  date: '2023-06-20'
+  link: https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=XWJZ202306009&uniplatform=OVERSEA&v=ssm6Go5gBLK4NrhFUIgaiTHecfKMySlpJ2BKRljMMc2hJKpbXZrrqu_PBJbO2nXC
+  type: paper
+  image: images/publications.jpg
+  plugin: sources.py
+  file: sources_nid.yaml
